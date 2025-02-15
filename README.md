@@ -17,6 +17,6 @@ Each folder contains the relevant project files, test cases, and documentation. 
 Technologies Used
 Here are some of the technologies and programming languages that you will find throughout this portfolio:
 
-Languages: Java, Python, C++, C#, JavaScript, SQL
+Languages: Java, Python, C++, C#, SQL
 Frameworks/Tools: Git, GitHub, Linux, Visual Studio, MongoDB
 Other: Assembly, Django, MySQL, Terminal Commands
