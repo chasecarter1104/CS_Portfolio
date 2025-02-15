@@ -8,8 +8,6 @@ The portfolio is organized by different topics and courses I have taken. Below a
 
 Data Structures and Algorithms: Projects related to fundamental data structures (e.g., Stacks, Queues, Linked Lists) and algorithm implementations.
 
-Object-Oriented Programming (OOP): Projects where I applied the principles of OOP, such as encapsulation, inheritance, and polymorphism.
-
 Computer Architecture/Organization: Includes Assembly programming assignments that explore the low-level workings of computers.
 
 Database Management: Projects involving SQL, relational databases, and working with data management systems.
