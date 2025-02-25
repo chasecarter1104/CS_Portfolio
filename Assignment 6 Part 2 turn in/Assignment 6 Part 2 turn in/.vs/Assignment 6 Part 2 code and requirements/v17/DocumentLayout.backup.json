@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment6_Part2\\Assignment6AirlineReservation\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\clsPassengerLinkManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment6_Part2\\Assignment6AirlineReservation\\clsPassengerLinkManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\FlightManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment6_Part2\\Assignment6AirlineReservation\\FlightManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment6_Part2\\Assignment6AirlineReservation\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\Passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment6_Part2\\Assignment6AirlineReservation\\Passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsPassengerLinkManager.cs",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\clsPassengerLinkManager.cs",
+              "RelativeDocumentMoniker": "Assignment6_Part2\\Assignment6AirlineReservation\\clsPassengerLinkManager.cs",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\clsPassengerLinkManager.cs",
+              "RelativeToolTip": "Assignment6_Part2\\Assignment6AirlineReservation\\clsPassengerLinkManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:30:08.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightManager.cs",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\FlightManager.cs",
+              "RelativeDocumentMoniker": "Assignment6_Part2\\Assignment6AirlineReservation\\FlightManager.cs",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\FlightManager.cs",
+              "RelativeToolTip": "Assignment6_Part2\\Assignment6AirlineReservation\\FlightManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:30:07.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment6_Part2\\Assignment6AirlineReservation\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\MainWindow.xaml",
+              "RelativeToolTip": "Assignment6_Part2\\Assignment6AirlineReservation\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T19:30:00.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment6_Part2\\Assignment6AirlineReservation\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Assignment6_Part2\\Assignment6AirlineReservation\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:29:56.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\Passenger.cs",
+              "RelativeDocumentMoniker": "Assignment6_Part2\\Assignment6AirlineReservation\\Passenger.cs",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 6 Part 2 code and requirements\\Assignment6_Part2\\Assignment6AirlineReservation\\Passenger.cs",
+              "RelativeToolTip": "Assignment6_Part2\\Assignment6AirlineReservation\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:29:53.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
