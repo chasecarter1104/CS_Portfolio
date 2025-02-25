@@ -1,0 +1,20 @@
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\Assignment 5.csproj.AssemblyReference.cache
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\MainWindow.g.cs
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\GameWindow.g.cs
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\App.g.cs
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\Assignment 5_MarkupCompile.cache
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\Assignment 5_MarkupCompile.lref
+C:\Users\chase\source\repos\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\chase\source\repos\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\chase\source\repos\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\MainWindow.baml
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\GameWindow.baml
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\Assignment 5.g.resources
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\Assignment_5.Properties.Resources.resources
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\Assignment 5.csproj.GenerateResource.cache
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\Assignment 5.pdb
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\Assignment 5_Content.g.cs
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\FinalScoreWindow.baml
+C:\Users\chase\source\repos\Assignment 5\obj\Debug\FinalScoreWindow.g.cs

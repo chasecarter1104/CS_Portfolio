@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chase\\source\\repos\\Assignment 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|C:\\Users\\chase\\source\\repos\\Assignment 5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|C:\\Users\\chase\\source\\repos\\Assignment 5\\gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|solutionrelative:gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|C:\\Users\\chase\\source\\repos\\Assignment 5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|C:\\Users\\chase\\source\\repos\\Assignment 5\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|c:\\users\\chase\\source\\repos\\assignment 5\\finalscorewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|solutionrelative:finalscorewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|C:\\Users\\chase\\source\\repos\\Assignment 5\\finalscorewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|solutionrelative:finalscorewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|C:\\Users\\chase\\source\\repos\\Assignment 5\\gamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|solutionrelative:gamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|C:\\Users\\chase\\source\\repos\\Assignment 5\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|C:\\Users\\chase\\source\\repos\\Assignment 5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB8AA9BE-7DC7-438E-896C-F52EFC541B96}|Assignment 5.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 5\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 5\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:23:50.775Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinalScoreWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 5\\FinalScoreWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinalScoreWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 5\\FinalScoreWindow.xaml.cs",
+              "RelativeToolTip": "FinalScoreWindow.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:31:13.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA1wD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:48:53.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 5\\GameWindow.xaml",
+              "RelativeDocumentMoniker": "GameWindow.xaml",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 5\\GameWindow.xaml",
+              "RelativeToolTip": "GameWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T22:38:12.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 5\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T22:38:15.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 5\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 5\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:48:15.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinalScoreWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 5\\FinalScoreWindow.xaml",
+              "RelativeDocumentMoniker": "FinalScoreWindow.xaml",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 5\\FinalScoreWindow.xaml",
+              "RelativeToolTip": "FinalScoreWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T21:30:16.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 5\\GameWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GameWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 5\\GameWindow.xaml.cs",
+              "RelativeToolTip": "GameWindow.xaml.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAUwMIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:25:54.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 5\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 5\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T22:46:54.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
