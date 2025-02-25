@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chase\\source\\repos\\Assignment 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D92F6A-7C7E-4A92-A14F-0FC6D54590AB}|Assignment 4.csproj|c:\\users\\chase\\source\\repos\\assignment 4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D92F6A-7C7E-4A92-A14F-0FC6D54590AB}|Assignment 4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D92F6A-7C7E-4A92-A14F-0FC6D54590AB}|Assignment 4.csproj|c:\\users\\chase\\source\\repos\\assignment 4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D92F6A-7C7E-4A92-A14F-0FC6D54590AB}|Assignment 4.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D92F6A-7C7E-4A92-A14F-0FC6D54590AB}|Assignment 4.csproj|c:\\users\\chase\\source\\repos\\assignment 4\\tictactoegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D92F6A-7C7E-4A92-A14F-0FC6D54590AB}|Assignment 4.csproj|solutionrelative:tictactoegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D92F6A-7C7E-4A92-A14F-0FC6D54590AB}|Assignment 4.csproj|c:\\users\\chase\\source\\repos\\assignment 4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4D92F6A-7C7E-4A92-A14F-0FC6D54590AB}|Assignment 4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicTacToeGame.cs",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 4\\TicTacToeGame.cs",
+              "RelativeDocumentMoniker": "TicTacToeGame.cs",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 4\\TicTacToeGame.cs",
+              "RelativeToolTip": "TicTacToeGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T00:23:36.836Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 4\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:20:20.949Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 4\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAALYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:20:47.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chase\\source\\repos\\Assignment 4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\chase\\source\\repos\\Assignment 4\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:24:08.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
